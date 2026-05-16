@@ -71,9 +71,9 @@ An AI-powered Chrome extension tool that instantly summarizes webpages into key 
 
 ## 🌐 Portfolio
 
-[Visit My Portfolio](https://svelte-portfolio-nine-flame.vercel.app/)
-email: sheidabdulahad0@gmail.com
-LinkedIn: https://www.linkedin.com/in/abdulahad-sheid-795740409/
+[Visit My Portfolio](https://svelte-portfolio-nine-flame.vercel.app/) <br>
+[email](sheidabdulahad0@gmail.com) <br>
+[LinkedIn](https://www.linkedin.com/in/abdulahad-sheid-795740409/) <br>
 
 ---
 
